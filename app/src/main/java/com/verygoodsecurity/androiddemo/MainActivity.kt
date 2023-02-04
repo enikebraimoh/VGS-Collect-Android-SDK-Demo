@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     companion object {
         const val USER_SCAN_REQUEST_CODE = 0x7
 
-        private const val VAULT_ID = "tntpszqgikn"
+        private const val VAULT_ID = "tntsgokx54b"
         private val ENVIRONMENT = Environment.SANDBOX
         private const val PATH = "/post"
     }
